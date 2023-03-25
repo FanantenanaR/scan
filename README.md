@@ -3,7 +3,7 @@
 # Prise en main
 ## Prerequis:
 ### 1. NodeJS (18 LTS)
-Vous pouvez telecharger ici.
+Vous pouvez telecharger [ici](https://nodejs.org/en/download).
 ### 2. Ionic CLI
 Executer la commande suivante: 
 ```NPM 
